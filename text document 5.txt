@@ -1,0 +1,7 @@
+1.git init
+2.git config --global user.name "name"
+3.git config --global user.email "email"
+4.git add .
+5.git commit -m "message"
+6.gut remote add origin https://github.com/goyalshaffi/assignment 1 done.git
+7.git push -u origin master
